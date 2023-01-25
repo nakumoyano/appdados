@@ -13,6 +13,8 @@ Consiste en un simple juego de generala, en el que al tocar el botón "Tirar dad
 - [![VSCode][vscode.com]][vscode-url]
 
 ### Imágenes ilustrativas
+![2023-01-25 16_29_07-Window](https://user-images.githubusercontent.com/67272806/214671068-d8e4a4cd-dd6a-4677-9d48-05088e042bc1.png)
+![2023-01-25 16_28_18-Window](https://user-images.githubusercontent.com/67272806/214671078-15d046e6-15a1-4775-a8ae-bc2e208c2640.png)
 
 [angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
